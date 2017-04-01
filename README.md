@@ -1,2 +1,2 @@
-# zendyani.github.io
-pages of ncody website
+# Zendyani.github.io
+Pages of ncody website
