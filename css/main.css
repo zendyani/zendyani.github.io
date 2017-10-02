@@ -1,7 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  /*font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";*/
+  font-family: "Bariol", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 
 }
 
@@ -28,4 +29,12 @@ body {
 
 .course-list span{
    flex: 1;
+}
+
+.big-title {
+  font-size: 2.875rem;
+}
+
+.hint {
+  color: #0AAFC4;
 }
